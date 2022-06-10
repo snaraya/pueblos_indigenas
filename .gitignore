@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+data/pueblos_indigenas.csv
+00-limpieza.R
